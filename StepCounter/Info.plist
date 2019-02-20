@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.micjames.StepCounter</string>
+	<string>com.ribeyestudios.stepcounter</string>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -55,5 +55,7 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>CFBundleName</key>
+	<string>Step Counter</string>
 </dict>
 </plist>
